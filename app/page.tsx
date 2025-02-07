@@ -21,7 +21,7 @@ export default function Home() {
           <div className="space-y-6">
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight text-center">
             🚧 🏗️ 🔨<br />
-            We're currently
+            We&apos;re currently
               <span className="block text-gradient">Under Construction</span>
             </h1>
             {/* Contact Expert Button */}
